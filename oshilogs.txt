@@ -1,0 +1,160 @@
+c[36m====================================================[0m
+[36m   ___  ____  _   _ ___   _        _    ____  ____   [0m
+[36m  / _ \/ ___|| | | |_ _| | |      / \  | __ )| ___|  [0m
+[36m | | | \___ \| |_| || |  | |     / _ \ |  _ \|___ \  [0m
+[36m | |_| |___) |  _  || |  | |___ / ___ \| |_) |___) | [0m
+[36m  \___/|____/|_| |_|___| |_____/_/   \_\____/|____/  [0m
+[36m====================================================[0m
+
+delay/task: 10s | limit: semua
+akun source: /home/runner/work/c21hcG9ja2VWaW5rYQ/c21hcG9ja2VWaW5rYQ/account.json | jumlah: 1
+mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch Anime, Read Article, Quiz Anime, Music Missions, Claim Missions, Check Eligibility, Read Manga, Get Gift, Setup Profile, Bind Wallet SEQUENSIAL
+
+
+===== [1/1] Vinka =====
+[1]Vinka       |08:35:50 | 11-10-2026| login OK @vinkagioselia | score=860 rank=6772
+[1]Vinka       |08:35:50 | 11-10-2026| serverTime=2026-10-11T08:35:50.000Z local=2026-10-11T08:35:50.881Z
+--> [1]Vinka menjalankan: Claim Daily
+[1]Vinka       |08:35:52 | 11-10-2026| daily: sudah klaim (already=true) score=860
+--> [1]Vinka menjalankan: Auto All Tasks (3 pending)
+[1]Vinka       |08:35:53 | 11-10-2026| [1/3] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/vinkagioselia/status/2109200804209963647
+[1]Vinka       |08:35:53 | 11-10-2026| delay 10s...
+[1]Vinka       |08:36:07 | 11-10-2026| [2/3] 1499c73c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/vinkagioselia/status/2109201096362215675
+[1]Vinka       |08:36:07 | 11-10-2026| delay 10s...
+[1]Vinka       |08:36:19 | 11-10-2026| [3/3] e62ee4d9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/vinkagioselia/status/2109200815423001591
+[1]Vinka       |08:36:19 | 11-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Vinka       |08:36:20 | 11-10-2026| [1/1] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/vinkagioselia/status/2109201044738872335
+--> [1]Vinka menjalankan: Watch Anime
+[1]Vinka       |08:36:21 | 11-10-2026| watch: 3 video belum completed: oshi-first-journey,ep5,ep6
+[1]Vinka       |08:36:21 | 11-10-2026| watch [1/3] farming oshi-first-journey...
+[1]Vinka       |08:36:24 | 11-10-2026| watch oshi-first-journey: 0% (0.00/87.00s)
+[1]Vinka       |08:36:30 | 11-10-2026| watch oshi-first-journey: 6% (5.84/87.00s)
+[1]Vinka       |08:36:37 | 11-10-2026| watch oshi-first-journey: 13% (11.70/87.00s)
+[1]Vinka       |08:36:44 | 11-10-2026| watch oshi-first-journey: 19% (17.36/87.00s)
+[1]Vinka       |08:36:52 | 11-10-2026| watch oshi-first-journey: 27% (23.79/87.00s)
+[1]Vinka       |08:36:59 | 11-10-2026| watch oshi-first-journey: 34% (29.92/87.00s)
+[1]Vinka       |08:37:05 | 11-10-2026| watch oshi-first-journey: 42% (36.59/87.00s)
+[1]Vinka       |08:37:11 | 11-10-2026| watch oshi-first-journey: 48% (42.30/87.00s)
+[1]Vinka       |08:37:19 | 11-10-2026| watch oshi-first-journey: 54% (47.74/87.00s)
+[1]Vinka       |08:37:25 | 11-10-2026| watch oshi-first-journey: 62% (54.19/87.00s)
+[1]Vinka       |08:37:32 | 11-10-2026| watch oshi-first-journey: 69% (60.06/87.00s)
+[1]Vinka       |08:37:38 | 11-10-2026| watch oshi-first-journey: 75% (65.77/87.00s)
+[1]Vinka       |08:37:44 | 11-10-2026| watch oshi-first-journey: 81% (71.25/87.00s)
+[1]Vinka       |08:37:51 | 11-10-2026| watch oshi-first-journey: 88% (76.68/87.00s)
+[1]Vinka       |08:37:58 | 11-10-2026| watch oshi-first-journey: 96% (83.60/87.00s)
+[1]Vinka       |08:37:58 | 11-10-2026| watch oshi-first-journey: COMPLETED (83.60/87.00s)
+[1]Vinka       |08:38:03 | 11-10-2026| watch [2/3] farming ep5...
+[1]Vinka       |08:38:04 | 11-10-2026| watch ep5: mulai dari 0 (record 12.4s diabaikan)
+[1]Vinka       |08:38:05 | 11-10-2026| watch ep5: 3% (12.39/396.00s)
+[1]Vinka       |08:38:11 | 11-10-2026| watch ep5: 3% (12.39/396.00s)
+[1]Vinka       |08:38:17 | 11-10-2026| watch ep5: 3% (12.39/396.00s)
+[1]Vinka       |08:38:23 | 11-10-2026| watch ep5: 4% (16.23/396.00s)
+[1]Vinka       |08:38:29 | 11-10-2026| watch ep5: 5% (21.75/396.00s)
+[1]Vinka       |08:38:42 | 11-10-2026| watch ep5: 6% (27.19/396.00s)
+[1]Vinka       |08:38:48 | 11-10-2026| watch ep5: 9% (36.95/396.00s)
+[1]Vinka       |08:38:56 | 11-10-2026| watch ep5: 10% (42.37/396.00s)
+[1]Vinka       |08:39:03 | 11-10-2026| watch ep5: 12% (49.37/396.00s)
+[1]Vinka       |08:39:11 | 11-10-2026| watch ep5: 13% (55.37/396.00s)
+[1]Vinka       |08:39:18 | 11-10-2026| watch ep5: 15% (62.07/396.00s)
+[1]Vinka       |08:39:24 | 11-10-2026| watch ep5: 17% (68.42/396.00s)
+[1]Vinka       |08:39:31 | 11-10-2026| watch ep5: 18% (73.85/396.00s)
+[1]Vinka       |08:39:38 | 11-10-2026| watch ep5: 20% (79.97/396.00s)
+[1]Vinka       |08:39:44 | 11-10-2026| watch ep5: 21% (86.19/396.00s)
+[1]Vinka       |08:39:52 | 11-10-2026| watch ep5: 23% (92.11/396.00s)
+[1]Vinka       |08:39:59 | 11-10-2026| watch ep5: 24% (98.79/396.00s)
+[1]Vinka       |08:40:06 | 11-10-2026| watch ep5: 26% (105.46/396.00s)
+[1]Vinka       |08:40:18 | 11-10-2026| watch ep5: 28% (111.74/396.00s)
+[1]Vinka       |08:40:24 | 11-10-2026| watch ep5: 28% (111.74/396.00s)
+[1]Vinka       |08:40:31 | 11-10-2026| watch ep5: 29% (117.25/396.00s)
+[1]Vinka       |08:40:38 | 11-10-2026| watch ep5: 31% (123.46/396.00s)
+[1]Vinka       |08:40:45 | 11-10-2026| watch ep5: 32% (129.49/396.00s)
+[1]Vinka       |08:40:52 | 11-10-2026| watch ep5: 34% (135.59/396.00s)
+[1]Vinka       |08:40:59 | 11-10-2026| watch ep5: 35% (142.41/396.00s)
+[1]Vinka       |08:41:06 | 11-10-2026| watch ep5: 37% (148.52/396.00s)
+[1]Vinka       |08:41:13 | 11-10-2026| watch ep5: 39% (154.61/396.00s)
+[1]Vinka       |08:41:21 | 11-10-2026| watch ep5: 40% (161.43/396.00s)
+[1]Vinka       |08:41:27 | 11-10-2026| watch ep5: 42% (167.93/396.00s)
+[1]Vinka       |08:41:35 | 11-10-2026| watch ep5: 43% (173.84/396.00s)
+[1]Vinka       |08:41:44 | 11-10-2026| watch ep5: 45% (180.60/396.00s)
+[1]Vinka       |08:41:51 | 11-10-2026| watch ep5: 47% (187.60/396.00s)
+[1]Vinka       |08:41:58 | 11-10-2026| watch ep5: 49% (194.04/396.00s)
+[1]Vinka       |08:42:05 | 11-10-2026| watch ep5: 50% (200.84/396.00s)
+[1]Vinka       |08:42:11 | 11-10-2026| watch ep5: 52% (206.84/396.00s)
+[1]Vinka       |08:42:21 | 11-10-2026| watch ep5: 53% (212.26/396.00s)
+[1]Vinka       |08:42:31 | 11-10-2026| watch ep5: 55% (220.62/396.00s)
+[1]Vinka       |08:42:38 | 11-10-2026| watch ep5: 57% (228.92/396.00s)
+[1]Vinka       |08:42:46 | 11-10-2026| watch ep5: 59% (235.58/396.00s)
+[1]Vinka       |08:42:54 | 11-10-2026| watch ep5: 61% (242.33/396.00s)
+[1]Vinka       |08:43:02 | 11-10-2026| watch ep5: 63% (249.70/396.00s)
+[1]Vinka       |08:43:08 | 11-10-2026| watch ep5: 64% (256.33/396.00s)
+[1]Vinka       |08:43:15 | 11-10-2026| watch ep5: 66% (262.60/396.00s)
+[1]Vinka       |08:43:22 | 11-10-2026| watch ep5: 67% (268.78/396.00s)
+[1]Vinka       |08:43:30 | 11-10-2026| watch ep5: 69% (275.08/396.00s)
+[1]Vinka       |08:43:38 | 11-10-2026| watch ep5: 71% (282.37/396.00s)
+[1]Vinka       |08:43:45 | 11-10-2026| watch ep5: 72% (288.82/396.00s)
+[1]Vinka       |08:43:56 | 11-10-2026| watch ep5: 74% (295.67/396.00s)
+[1]Vinka       |08:44:02 | 11-10-2026| watch ep5: 76% (303.37/396.00s)
+[1]Vinka       |08:44:11 | 11-10-2026| watch ep5: 78% (309.38/396.00s)
+[1]Vinka       |08:44:21 | 11-10-2026| watch ep5: 80% (317.32/396.00s)
+[1]Vinka       |08:44:28 | 11-10-2026| watch ep5: 82% (325.57/396.00s)
+[1]Vinka       |08:44:35 | 11-10-2026| watch ep5: 83% (332.63/396.00s)
+[1]Vinka       |08:44:42 | 11-10-2026| watch ep5: 85% (338.68/396.00s)
+[1]Vinka       |08:44:49 | 11-10-2026| watch ep5: 87% (345.13/396.00s)
+[1]Vinka       |08:44:55 | 11-10-2026| watch ep5: 88% (350.94/396.00s)
+[1]Vinka       |08:45:01 | 11-10-2026| watch ep5: 89% (356.36/396.00s)
+[1]Vinka       |08:45:08 | 11-10-2026| watch ep5: 91% (362.19/396.00s)
+[1]Vinka       |08:45:08 | 11-10-2026| watch ep5: COMPLETED (362.19/396.00s)
+[1]Vinka       |08:45:13 | 11-10-2026| watch [3/3] farming ep6...
+[1]Vinka       |08:45:15 | 11-10-2026| watch ep6: 0% (0.00/404.00s)
+[1]Vinka       |08:45:22 | 11-10-2026| watch ep6: 1% (5.22/404.00s)
+[1]Vinka       |08:45:29 | 11-10-2026| watch ep6: 2% (11.74/404.00s)
+[1]Vinka       |08:45:35 | 11-10-2026| watch ep6: 4% (17.72/404.00s)
+[1]Vinka       |08:45:42 | 11-10-2026| watch ep6: 5% (23.23/404.00s)
+[1]Vinka       |08:45:49 | 11-10-2026| watch ep6: 7% (29.47/404.00s)
+[1]Vinka       |08:45:57 | 11-10-2026| watch ep6: 8% (35.69/404.00s)
+[1]Vinka       |08:46:05 | 11-10-2026| watch ep6: 10% (42.77/404.00s)
+[1]Vinka       |08:46:11 | 11-10-2026| watch ep6: 12% (49.78/404.00s)
+[1]Vinka       |08:46:18 | 11-10-2026| watch ep6: 13% (55.75/404.00s)
+[1]Vinka       |08:46:25 | 11-10-2026| watch ep6: 15% (61.81/404.00s)
+[1]Vinka       |08:46:32 | 11-10-2026| watch ep6: 16% (68.19/404.00s)
+[1]Vinka       |08:46:41 | 11-10-2026| watch ep6: 18% (74.12/404.00s)
+[1]Vinka       |08:46:47 | 11-10-2026| watch ep6: 19% (80.29/404.00s)
+[1]Vinka       |08:46:54 | 11-10-2026| watch ep6: 21% (85.76/404.00s)
+[1]Vinka       |08:47:03 | 11-10-2026| watch ep6: 22% (92.21/404.00s)
+[1]Vinka       |08:47:11 | 11-10-2026| watch ep6: 24% (100.29/404.00s)
+[1]Vinka       |08:47:19 | 11-10-2026| watch ep6: 26% (107.77/404.00s)
+[1]Vinka       |08:47:25 | 11-10-2026| watch ep6: 28% (114.06/404.00s)
+[1]Vinka       |08:47:35 | 11-10-2026| watch ep6: 29% (119.73/404.00s)
+[1]Vinka       |08:47:44 | 11-10-2026| watch ep6: heartbeat GAGAL http=503
+--> [1]Vinka menjalankan: Read Article
+[1]Vinka       |08:47:44 | 11-10-2026| news ERROR: news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Vinka menjalankan: Quiz Anime
+[1]Vinka       |08:47:44 | 11-10-2026| quiz ERROR: quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Vinka menjalankan: Music Missions (realtime, bisa lama!)
+[1]Vinka       |08:47:44 | 11-10-2026| music ERROR: music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Vinka       |08:47:45 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Vinka menjalankan: Claim Missions
+[1]Vinka       |08:47:45 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Vinka menjalankan: Check Eligibility
+
+--- eligibility [1]Vinka ---
+  @vinkagioselia | score=860 rank=6772
+  tasks    [###################-] 73/76
+  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  watch: ERROR watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  music: ERROR music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  artikel: ERROR news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  mint: ERROR mint-eligibility http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+
+--> [1]Vinka menjalankan: Read Manga
+[1]Vinka       |08:47:45 | 11-10-2026| manga ERROR: manga-history http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Vinka menjalankan: Get Gift
+[1]Vinka       |08:47:45 | 11-10-2026| gift ERROR: gifts http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Vinka menjalankan: Setup Profile
+[1]Vinka       |08:47:45 | 11-10-2026| profile ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Vinka menjalankan: Bind Wallet
+[1]Vinka       |08:47:45 | 11-10-2026| wallet ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+
+== RINGKASAN ==
+- Vinka: daily=already | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 2/3 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/0 completed | gift 0/0 diterima | profile - | wallet -
