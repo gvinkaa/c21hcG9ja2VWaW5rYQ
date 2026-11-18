@@ -12,39 +12,35 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Vinka =====
-[1]Vinka       |12:47:03 | 17-11-2026| login OK @vinkagioselia | score=3260 rank=2372
-[1]Vinka       |12:47:03 | 17-11-2026| serverTime=2026-11-17T12:47:02.000Z local=2026-11-17T12:47:03.276Z
+[1]Vinka       |12:39:17 | 18-11-2026| login OK @vinkagioselia | score=3300 rank=2329
+[1]Vinka       |12:39:17 | 18-11-2026| serverTime=2026-11-18T12:39:17.000Z local=2026-11-18T12:39:17.348Z
 --> [1]Vinka menjalankan: Claim Daily
-[1]Vinka       |12:47:04 | 17-11-2026| daily: OK +10 poin score=3270
---> [1]Vinka menjalankan: Auto All Tasks (3 pending)
-[1]Vinka       |12:47:06 | 17-11-2026| [1/3] 26792b10 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"26792b10-7c9f-41c0-8b47-38d835dea4b0","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212253029166758 | proof=https://x.com/vinkagioselia/status/2122672569348419028
-[1]Vinka       |12:47:06 | 17-11-2026| delay 10s...
-[1]Vinka       |12:47:18 | 17-11-2026| [2/3] 7989db96 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"26792b10-7c9f-41c0-8b47-38d835dea4b0","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212253029166758 | proof=https://x.com/vinkagioselia/status/2122672607752709563
-[1]Vinka       |12:47:18 | 17-11-2026| delay 10s...
-[1]Vinka       |12:47:30 | 17-11-2026| [3/3] c539e107 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"26792b10-7c9f-41c0-8b47-38d835dea4b0","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212253029166758 | proof=https://x.com/vinkagioselia/status/2122672468657965730
-[1]Vinka       |12:47:30 | 17-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Vinka       |12:47:32 | 17-11-2026| [1/1] 26792b10 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"26792b10-7c9f-41c0-8b47-38d835dea4b0","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2122530291667587 | proof=https://x.com/vinkagioselia/status/2122672615105781479
+[1]Vinka       |12:39:19 | 18-11-2026| daily: OK +10 poin score=3310
+--> [1]Vinka menjalankan: Auto All Tasks (1 pending)
+[1]Vinka       |12:39:21 | 18-11-2026| [1/1] f590ef11 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f590ef11-d2d6-4143-967a-8a3e6e0c404a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212267665187629 | proof=https://x.com/vinkagioselia/status/2123032799134192776
+[1]Vinka       |12:39:21 | 18-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Vinka       |12:39:22 | 18-11-2026| [1/1] f590ef11 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f590ef11-d2d6-4143-967a-8a3e6e0c404a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2122676651876290 | proof=https://x.com/vinkagioselia/status/2123032732227683175
 --> [1]Vinka menjalankan: Watch Anime
-[1]Vinka       |12:47:33 | 17-11-2026| watch: semua video sudah completed
+[1]Vinka       |12:39:23 | 18-11-2026| watch: semua video sudah completed
 --> [1]Vinka menjalankan: Read Article
-[1]Vinka       |12:47:34 | 17-11-2026| news: 34/34 artikel selesai dibaca
-[1]Vinka       |12:47:35 | 17-11-2026| mint eligibility: {"userId":"1874550844668198912","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@gvinkaa","status":"submitted","revision":"8c1115f9-9859-43ac-84d3-5741c0dfbb65",
-[1]Vinka       |12:47:35 | 17-11-2026| news: semua artikel sudah dibaca
+[1]Vinka       |12:39:24 | 18-11-2026| news: 34/34 artikel selesai dibaca
+[1]Vinka       |12:39:24 | 18-11-2026| mint eligibility: {"userId":"1874550844668198912","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@gvinkaa","status":"submitted","revision":"8c1115f9-9859-43ac-84d3-5741c0dfbb65",
+[1]Vinka       |12:39:24 | 18-11-2026| news: semua artikel sudah dibaca
 --> [1]Vinka menjalankan: Quiz Anime
 --> [1]Vinka menjalankan: Music Missions (realtime, bisa lama!)
-[1]Vinka       |12:47:37 | 17-11-2026| music: kedua misi sudah tercapai, stop
-[1]Vinka       |12:47:37 | 17-11-2026| mission music-listens-10: sudah diklaim
-[1]Vinka       |12:47:37 | 17-11-2026| mission music-minutes-30: sudah diklaim
-[1]Vinka       |12:47:37 | 17-11-2026| mission anime-completed-3: sudah diklaim
+[1]Vinka       |12:39:26 | 18-11-2026| music: kedua misi sudah tercapai, stop
+[1]Vinka       |12:39:27 | 18-11-2026| mission music-listens-10: sudah diklaim
+[1]Vinka       |12:39:27 | 18-11-2026| mission music-minutes-30: sudah diklaim
+[1]Vinka       |12:39:27 | 18-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Vinka menjalankan: Claim Missions
-[1]Vinka       |12:47:38 | 17-11-2026| mission music-listens-10: sudah diklaim
-[1]Vinka       |12:47:38 | 17-11-2026| mission music-minutes-30: sudah diklaim
-[1]Vinka       |12:47:38 | 17-11-2026| mission anime-completed-3: sudah diklaim
+[1]Vinka       |12:39:27 | 18-11-2026| mission music-listens-10: sudah diklaim
+[1]Vinka       |12:39:27 | 18-11-2026| mission music-minutes-30: sudah diklaim
+[1]Vinka       |12:39:27 | 18-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Vinka menjalankan: Check Eligibility
 
 --- eligibility [1]Vinka ---
-  @vinkagioselia | score=3260 rank=2372
-  tasks    [########------------] 2/5
+  @vinkagioselia | score=3300 rank=2329
+  tasks    [###############-----] 3/4
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -55,17 +51,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Vinka menjalankan: Read Manga
-[1]Vinka       |12:47:41 | 17-11-2026| manga: 0/13 chapter belum completed
+[1]Vinka       |12:39:31 | 18-11-2026| manga: 0/13 chapter belum completed
 --> [1]Vinka menjalankan: Get Gift
-[1]Vinka       |12:47:42 | 17-11-2026| gift: 3/12 belum diterima
-[1]Vinka       |12:47:43 | 17-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Vinka       |12:47:46 | 17-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Vinka       |12:47:48 | 17-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Vinka       |12:39:33 | 18-11-2026| gift: 3/12 belum diterima
+[1]Vinka       |12:39:34 | 18-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Vinka       |12:39:36 | 18-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Vinka       |12:39:39 | 18-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Vinka menjalankan: Setup Profile
-[1]Vinka       |12:47:51 | 17-11-2026| profile: bio="https://x.com/vinkagioselia" fav=yuki rewardAt=1791796548
-[1]Vinka       |12:47:51 | 17-11-2026| profile: bonus sudah diklaim, skip
+[1]Vinka       |12:39:42 | 18-11-2026| profile: bio="https://x.com/vinkagioselia" fav=yuki rewardAt=1791796548
+[1]Vinka       |12:39:42 | 18-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Vinka menjalankan: Bind Wallet
-[1]Vinka       |12:47:51 | 17-11-2026| wallet: sudah terikat EF25CaJT2p... (solana)
+[1]Vinka       |12:39:42 | 18-11-2026| wallet: sudah terikat EF25CaJT2p... (solana)
 
 == RINGKASAN ==
-- Vinka: daily=claimed | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
+- Vinka: daily=claimed | tasks OK 2/2 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
